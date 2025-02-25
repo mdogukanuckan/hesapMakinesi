@@ -1,5 +1,12 @@
-int toplama(num1,num2){
+
+int toplama2(num1,num2){
   int sum =0;
   sum = num1+num2;
+  return sum;
+}
+
+int toplama3(num1,num2,num3){
+  int sum =0;
+  sum = num1+num2+num3;
   return sum;
 }
